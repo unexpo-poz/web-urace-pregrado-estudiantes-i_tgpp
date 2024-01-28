@@ -1,0 +1,220 @@
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[16/07/2013 11:34:49.67][186.95.35.57][N_E] SELECT password FROM usuarios WHERE userid='07-19622622' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[16/07/2013 11:34:49.67][186.95.35.57][N_E] SELECT tipo_usuario FROM usuarios WHERE password='00fd113df54e13a1b01bb11732ab481c' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[18/07/2013 10:05:14.53][190.201.167.248][N_E] SELECT password FROM usuarios WHERE userid='09-20374394' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[18/07/2013 10:05:14.53][190.201.167.248][N_E] SELECT tipo_usuario FROM usuarios WHERE password='bd73feedd1408b11f5925a8e293b06c1' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[30/07/2013 10:36:30.92][172.16.4.254][N_E] SELECT password FROM usuarios WHERE userid='08-20035211' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[30/07/2013 10:36:30.92][172.16.4.254][N_E] SELECT tipo_usuario FROM usuarios WHERE password='7ebf55f8c25551c0c9081a63a29afc57' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[06/08/2013 11:49:04.22][190.36.3.146][N_E] SELECT password FROM usuarios WHERE userid='05-18247368' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[06/08/2013 11:49:04.22][190.36.3.146][N_E] SELECT tipo_usuario FROM usuarios WHERE password='3d3e9f697d5f2a039bed736304d1a420' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/11/2013 09:08:16.51][186.24.13.102][N_E] SELECT password FROM usuarios WHERE userid='06-17879116' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/11/2013 09:08:16.51][186.24.13.102][N_E] SELECT tipo_usuario FROM usuarios WHERE password='e6949611b754200335ee5b1948a69ec3' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[22/01/2014 12:17:29.37][190.60.51.131][N_E] SELECT password FROM usuarios WHERE userid='08-19419203' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[22/01/2014 12:17:29.37][190.60.51.131][N_E] SELECT tipo_usuario FROM usuarios WHERE password='8fb134f258b1f7865a6ab2d935a897c9' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[06/02/2014 08:24:38.25][172.16.0.130][N_E] SELECT password FROM usuarios WHERE userid='07-19785304' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:27:14.81][190.204.69.14][N_E] SELECT password FROM usuarios WHERE userid='09-21009063' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:24:38.25][172.16.0.130][N_E] SELECT tipo_usuario FROM usuarios WHERE password='569dde2294a0c78b1c98bf20449deffa' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:27:14.81][190.204.69.14][N_E] SELECT tipo_usuario FROM usuarios WHERE password='164ed3dccd8e8583c586f364a2dbeab8' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:35:17.75][172.16.0.130][N_E] SELECT password FROM usuarios WHERE userid='07-19785304' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:35:17.75][172.16.0.130][N_E] SELECT tipo_usuario FROM usuarios WHERE password='569dde2294a0c78b1c98bf20449deffa' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:50:07.62][181.185.159.4][N_E] SELECT password FROM usuarios WHERE userid='07-19785304' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:54:48.50][172.17.125.250][N_E] SELECT password FROM usuarios WHERE userid='07-19785304' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:50:07.62][181.185.159.4][N_E] SELECT tipo_usuario FROM usuarios WHERE password='569dde2294a0c78b1c98bf20449deffa' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 08:54:48.50][172.17.125.250][N_E] SELECT tipo_usuario FROM usuarios WHERE password='569dde2294a0c78b1c98bf20449deffa' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 09:00:15.43][181.185.159.4][N_E] SELECT password FROM usuarios WHERE userid='07-19785304' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 09:02:19.93][172.17.125.250][N_E] SELECT password FROM usuarios WHERE userid='07-19785304' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 09:00:15.43][181.185.159.4][N_E] SELECT tipo_usuario FROM usuarios WHERE password='569dde2294a0c78b1c98bf20449deffa' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 09:02:19.93][172.17.125.250][N_E] SELECT tipo_usuario FROM usuarios WHERE password='569dde2294a0c78b1c98bf20449deffa' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 09:35:12.25][172.16.4.247][N_E] SELECT password FROM usuarios WHERE userid='04-15907780' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 09:35:12.25][172.16.4.247][N_E] SELECT tipo_usuario FROM usuarios WHERE password='8227d54aa8a3afe8068fbe43c608f849' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[06/02/2014 09:48:36.18][172.16.4.254][N_E] SELECT password FROM usuarios WHERE userid='04-15907780' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]03806 RSO SCT Session closed/terminated}
+C:[06/02/2014 09:48:36.18][172.16.4.254][N_E] SELECT tipo_usuario FROM usuarios WHERE password='8227d54aa8a3afe8068fbe43c608f849' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]03806 RSO SCT Session closed/terminated}
+C:[14/02/2014 10:53:15.50][190.202.104.82][N_E] SELECT password FROM usuarios WHERE userid='08-20201256' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 10:53:15.50][190.202.104.82][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ab15d3d5a61c3722186dae6bf393b8f7' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 11:02:54.93][190.76.3.237][N_E] SELECT password FROM usuarios WHERE userid='08-20886014' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 11:02:54.93][190.76.3.237][N_E] SELECT tipo_usuario FROM usuarios WHERE password='e123e88d8066f1404b08ad8041fc5939' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 11:08:42.68][190.202.104.82][N_E] SELECT password FROM usuarios WHERE userid='08-20201256' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 11:08:42.68][190.202.104.82][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ab15d3d5a61c3722186dae6bf393b8f7' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 12:01:24.31][186.167.64.26][N_E] SELECT password FROM usuarios WHERE userid='00-15014136' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 12:01:24.31][186.167.64.26][N_E] SELECT tipo_usuario FROM usuarios WHERE password='968dab16b2b461477374ab09b09c06b1' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 12:11:32.93][186.167.64.26][N_E] SELECT password FROM usuarios WHERE userid='00-15014136' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 12:11:32.93][186.167.64.26][N_E] SELECT tipo_usuario FROM usuarios WHERE password='968dab16b2b461477374ab09b09c06b1' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 13:17:08.56][190.202.104.82][N_E] SELECT password FROM usuarios WHERE userid='08-20201256' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 13:17:08.56][190.202.104.82][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ab15d3d5a61c3722186dae6bf393b8f7' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 13:34:47.62][190.202.104.82][N_E] SELECT password FROM usuarios WHERE userid='08-20201256' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 13:34:47.62][190.202.104.82][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ab15d3d5a61c3722186dae6bf393b8f7' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 14:24:02.93][190.76.3.237][N_E] SELECT password FROM usuarios WHERE userid='08-20886014' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 14:24:02.93][190.76.3.237][N_E] SELECT tipo_usuario FROM usuarios WHERE password='e123e88d8066f1404b08ad8041fc5939' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 16:02:19.37][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 16:02:19.37][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 16:40:19.62][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 16:40:19.62][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 16:50:37.06][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 16:50:37.06][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 17:03:19.62][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 17:03:19.62][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 17:10:28.62][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 17:10:28.62][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 17:18:58.56][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 17:18:58.56][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 20:07:23.18][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 20:07:23.18][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 20:17:31.81][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 20:17:31.81][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 21:21:29.68][186.90.219.63][N_E] SELECT password FROM usuarios WHERE userid='06-19094266' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[14/02/2014 21:21:29.68][186.90.219.63][N_E] SELECT tipo_usuario FROM usuarios WHERE password='59f105199aefe83b3b851e06708ba468' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 08:21:47.87][190.36.23.3][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 08:21:47.87][190.36.23.3][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 10:36:23.68][186.90.219.63][N_E] SELECT password FROM usuarios WHERE userid='06-19094266' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 10:36:23.68][186.90.219.63][N_E] SELECT tipo_usuario FROM usuarios WHERE password='59f105199aefe83b3b851e06708ba468' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 10:52:44.87][186.90.219.63][N_E] SELECT password FROM usuarios WHERE userid='06-19094266' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 10:52:44.87][186.90.219.63][N_E] SELECT tipo_usuario FROM usuarios WHERE password='59f105199aefe83b3b851e06708ba468' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 13:19:28.31][190.74.21.183][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 13:19:28.31][190.74.21.183][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 19:00:28.81][186.90.219.63][N_E] SELECT password FROM usuarios WHERE userid='06-19094266' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 19:00:28.81][186.90.219.63][N_E] SELECT tipo_usuario FROM usuarios WHERE password='59f105199aefe83b3b851e06708ba468' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 20:11:42.37][190.36.19.134][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 20:11:42.37][190.36.19.134][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 20:22:21.56][190.36.19.134][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 20:22:21.56][190.36.19.134][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 21:42:56.50][190.37.122.81][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 21:42:56.50][190.37.122.81][N_E] SELECT tipo_usuario FROM usuarios WHERE password='41f196ece6c95a6c740842284a388830' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 21:53:04.75][186.94.56.186][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 21:57:15.87][190.60.50.59][N_E] SELECT password FROM usuarios WHERE userid='05-18246079' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 21:53:04.75][186.94.56.186][N_E] SELECT tipo_usuario FROM usuarios WHERE password='41f196ece6c95a6c740842284a388830' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 21:57:15.87][190.60.50.59][N_E] SELECT tipo_usuario FROM usuarios WHERE password='d73446cd2e45e030c0272f1e77f0b6ff' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:03:18.31][190.60.50.59][N_E] SELECT password FROM usuarios WHERE userid='05-18246079' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:03:24.25][190.37.122.81][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:03:18.31][190.60.50.59][N_E] SELECT tipo_usuario FROM usuarios WHERE password='d73446cd2e45e030c0272f1e77f0b6ff' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:03:24.25][190.37.122.81][N_E] SELECT tipo_usuario FROM usuarios WHERE password='41f196ece6c95a6c740842284a388830' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:13:26.56][190.60.50.59][N_E] SELECT password FROM usuarios WHERE userid='05-18246079' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:14:25.18][190.60.50.59][N_E] SELECT password FROM usuarios WHERE userid='05-18246079' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:13:26.56][190.60.50.59][N_E] SELECT tipo_usuario FROM usuarios WHERE password='d73446cd2e45e030c0272f1e77f0b6ff' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:14:25.18][190.60.50.59][N_E] SELECT tipo_usuario FROM usuarios WHERE password='d73446cd2e45e030c0272f1e77f0b6ff' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:31:18.62][186.90.125.207][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:31:18.62][186.90.125.207][N_E] SELECT tipo_usuario FROM usuarios WHERE password='41f196ece6c95a6c740842284a388830' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:41:51.25][190.206.83.77][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 22:52:34.62][190.199.66.248][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[15/02/2014 23:07:49.00][190.37.122.81][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 10:09:01.12][190.204.205.35][N_E] SELECT password FROM usuarios WHERE userid='08-24179194' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 10:09:01.12][190.204.205.35][N_E] SELECT tipo_usuario FROM usuarios WHERE password='d34e06e13950ae8aeccbc1c9d9dc9233' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 11:52:38.75][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 11:52:38.75][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 12:04:30.75][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 12:04:30.75][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 12:16:49.75][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 12:16:49.75][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 12:41:35.56][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 12:41:35.56][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 13:07:34.12][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 13:07:34.12][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 13:16:07.06][190.36.31.174][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 13:17:41.25][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 13:16:07.06][190.36.31.174][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 13:17:41.25][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 14:01:43.37][186.88.109.48][N_E] SELECT password FROM usuarios WHERE userid='08-23500032' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 14:01:43.37][186.88.109.48][N_E] SELECT tipo_usuario FROM usuarios WHERE password='665c061b90f8f212305eb51e2db86a2d' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 14:30:30.06][190.204.198.4][N_E] SELECT password FROM usuarios WHERE userid='07-18666338' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 14:30:30.06][190.204.198.4][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c49eac7d3daea3321aefccf7910bab76' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 15:12:26.93][190.204.198.4][N_E] SELECT password FROM usuarios WHERE userid='07-18666338' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 15:12:26.93][190.204.198.4][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c49eac7d3daea3321aefccf7910bab76' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 15:24:13.81][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 15:24:13.81][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 15:39:22.43][190.75.137.236][N_E] SELECT password FROM usuarios WHERE userid='06-20036224' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 15:39:22.43][190.75.137.236][N_E] SELECT tipo_usuario FROM usuarios WHERE password='6a36c9484e36e45d1a286bc894e9fce4' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 16:06:20.37][190.198.236.118][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 16:06:20.37][190.198.236.118][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 16:45:37.37][190.38.89.120][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 17:40:26.31][190.73.100.78][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 17:40:26.31][190.73.100.78][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 18:50:31.06][190.75.137.236][N_E] SELECT password FROM usuarios WHERE userid='06-20036224' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 18:50:31.06][190.75.137.236][N_E] SELECT tipo_usuario FROM usuarios WHERE password='6a36c9484e36e45d1a286bc894e9fce4' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 19:07:33.12][190.207.35.202][N_E] SELECT password FROM usuarios WHERE userid='09-20883147' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 19:07:33.12][190.207.35.202][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c492a4e29891600e32b39b944baaa74f' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 19:17:41.68][190.207.35.202][N_E] SELECT password FROM usuarios WHERE userid='09-20883147' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 19:17:41.68][190.207.35.202][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c492a4e29891600e32b39b944baaa74f' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 22:42:40.75][190.204.198.4][N_E] SELECT password FROM usuarios WHERE userid='07-18666338' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 22:42:40.75][190.204.198.4][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c49eac7d3daea3321aefccf7910bab76' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 23:48:03.18][186.90.219.63][N_E] SELECT password FROM usuarios WHERE userid='06-19094266' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 23:48:03.18][186.90.219.63][N_E] SELECT tipo_usuario FROM usuarios WHERE password='59f105199aefe83b3b851e06708ba468' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 05:54:43.93][190.207.35.202][N_E] SELECT password FROM usuarios WHERE userid='09-20883147' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 05:54:43.93][190.207.35.202][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c492a4e29891600e32b39b944baaa74f' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 11:00:46.43][201.249.174.221][N_E] SELECT password FROM usuarios WHERE userid='09-20804622' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 11:00:46.43][201.249.174.221][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ad80a7b596e611811989b17d0260ef99' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 11:12:32.00][201.249.174.221][N_E] SELECT password FROM usuarios WHERE userid='09-20804622' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 11:12:32.00][201.249.174.221][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ad80a7b596e611811989b17d0260ef99' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 11:20:01.50][190.206.83.77][N_E] SELECT password FROM usuarios WHERE userid='08-19804778' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 13:07:28.93][190.94.206.105][N_E] SELECT password FROM usuarios WHERE userid='04-18138216' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 13:07:28.93][190.94.206.105][N_E] SELECT tipo_usuario FROM usuarios WHERE password='5975583af475453e5888b7f88d16953b' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 13:17:35.93][190.94.206.105][N_E] SELECT password FROM usuarios WHERE userid='04-18138216' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 13:17:35.93][190.94.206.105][N_E] SELECT tipo_usuario FROM usuarios WHERE password='5975583af475453e5888b7f88d16953b' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 13:45:30.56][190.205.25.168][N_E] SELECT password FROM usuarios WHERE userid='09-20806153' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 13:45:30.56][190.205.25.168][N_E] SELECT tipo_usuario FROM usuarios WHERE password='147ca3d43187fb8c6ca618b36a1c1f0d' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 14:18:13.50][186.90.219.63][N_E] SELECT password FROM usuarios WHERE userid='06-19094266' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 14:18:13.50][186.90.219.63][N_E] SELECT tipo_usuario FROM usuarios WHERE password='59f105199aefe83b3b851e06708ba468' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 15:14:51.25][201.249.174.221][N_E] SELECT password FROM usuarios WHERE userid='09-20804622' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 15:14:51.25][201.249.174.221][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ad80a7b596e611811989b17d0260ef99' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 17:02:55.75][190.36.28.166][N_E] SELECT password FROM usuarios WHERE userid='09-24691954' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 17:02:55.75][190.36.28.166][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dd68558b0895296954de2559b0834cda' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 18:06:18.68][200.109.220.215][N_E] SELECT password FROM usuarios WHERE userid='06-19621387' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 18:16:50.75][190.38.94.146][N_E] SELECT password FROM usuarios WHERE userid='06-24848022' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 18:16:50.75][190.38.94.146][N_E] SELECT tipo_usuario FROM usuarios WHERE password='79b78da2fe07e8854baae028c363f241' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 19:29:22.62][201.243.107.80][N_E] SELECT password FROM usuarios WHERE userid='06-19621709' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 19:29:22.62][201.243.107.80][N_E] SELECT tipo_usuario FROM usuarios WHERE password='0f06d368868f3b63b99c6bbbb6b52628' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 19:54:12.37][201.243.107.80][N_E] SELECT password FROM usuarios WHERE userid='06-19621709' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 19:54:12.37][201.243.107.80][N_E] SELECT tipo_usuario FROM usuarios WHERE password='0f06d368868f3b63b99c6bbbb6b52628' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 20:09:54.25][201.243.107.80][N_E] SELECT password FROM usuarios WHERE userid='06-19621709' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[17/02/2014 20:09:54.25][201.243.107.80][N_E] SELECT tipo_usuario FROM usuarios WHERE password='0f06d368868f3b63b99c6bbbb6b52628' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[18/02/2014 01:53:34.12][190.204.198.4][N_E] SELECT password FROM usuarios WHERE userid='07-18666338' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[18/02/2014 01:53:34.12][190.204.198.4][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c49eac7d3daea3321aefccf7910bab76' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[18/02/2014 05:09:29.25][190.207.48.44][N_E] SELECT password FROM usuarios WHERE userid='08-19804703' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[18/02/2014 05:09:29.25][190.207.48.44][N_E] SELECT tipo_usuario FROM usuarios WHERE password='04b909309a5d612644eb6e4b749ca22f' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[18/02/2014 09:10:43.00][201.249.174.221][N_E] SELECT password FROM usuarios WHERE userid='09-20804622' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[04/04/2014 11:45:42.25][190.206.240.89][N_E] SELECT password FROM usuarios WHERE userid='98-15371143' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[04/04/2014 11:45:42.25][190.206.240.89][N_E] SELECT tipo_usuario FROM usuarios WHERE password='3b5ac9e1c44963a27d34316376384405' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09024 GCI SEA Session ended abnormally}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[27/05/2014 17:44:12.12][190.204.97.183][N_E] SELECT password FROM usuarios WHERE userid='04-17338144' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[27/05/2014 17:44:12.12][190.204.97.183][N_E] SELECT tipo_usuario FROM usuarios WHERE password='559d2e2a561d027e927d0f5a3fe280bd' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[18/07/2014 13:39:26.66][190.198.83.25][N_E] SELECT password FROM usuarios WHERE userid='09-19419605' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[18/07/2014 13:39:26.66][190.198.83.25][N_E] SELECT tipo_usuario FROM usuarios WHERE password='ff579cc12a07944a57498e2baed4684e'  [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}

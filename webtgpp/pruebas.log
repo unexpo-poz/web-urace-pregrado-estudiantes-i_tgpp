@@ -1,0 +1,26 @@
+C:[06/12/2012 15:19:58.14][172.16.8.250][19] select CI_E, NOMBRES, APELLIDOS, C_UNI_CA from dace002 where CI_E = '16395008' [1][0] OK
+C:[06/12/2012 15:19:58.31][172.16.8.250][97] select TIPO_PASANTIA from sol_tgpp where CI_E = '16395008'and TIPO_PASANTIA = 2 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:19:58.31][172.16.8.250][108] select TIPO_PASANTIA from sol_tgpp where CI_E = '16395008'and TIPO_PASANTIA = 1 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:19:58.31][172.16.8.250][141] select CI_E from sol_tgpp where CI_E = '16395008' and TIPO_PASANTIA = 2 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:19:58.31][172.16.8.250][150] select CI_E from sol_tgpp where CI_E = '16395008' and TIPO_PASANTIA = 1 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:20:25.89][172.16.8.250][9] select APELLIDOS, NOMBRES, EXP_E, C_UNI_CA from dace002 where CI_E = '16395008' [1][0] OK
+C:[06/12/2012 15:20:31.61][172.16.8.250][34] select APELLIDOS, NOMBRES, EXP_E, C_UNI_CA, TELEFONO2 from dace002 where CI_E = '16395008' [1][0] OK
+C:[06/12/2012 15:20:31.61][172.16.8.250][43] select ID_EMPRESA from sol_solicitudes where EXP_E= '02-16395008' [4][0] OK
+C:[06/12/2012 15:20:31.61][172.16.8.250][103] select CARRERA from tblaca010 where C_UNI_CA= '6' [1][0] OK
+C:[06/12/2012 15:20:31.61][172.16.8.250][135] select NOMBRE_EMPRESA from sol_empresas where ID_EMPRESA= '6' [1][0] OK
+C:[06/12/2012 15:21:15.46][172.16.8.250][58] select APELLIDOS, NOMBRES, EXP_E, C_UNI_CA, TELEFONO2 from dace002 where CI_E = '16395008' [1][0] OK
+C:[06/12/2012 15:21:15.46][172.16.8.250][113] select CARRERA from tblaca010 where C_UNI_CA= '6' [1][0] OK
+C:[06/12/2012 15:21:15.46][172.16.8.250][138] select ID_EMPRESA, EXP_E, TIPO_PASANTIA from sol_solicitudes where EXP_E= '02-16395008' and TIPO_PASANTIA='2' [0][0] OK
+C:[06/12/2012 15:21:30.48][172.16.8.250][19] select CI_E, NOMBRES, APELLIDOS, C_UNI_CA from dace002 where CI_E = '20152116' [1][0] OK
+C:[06/12/2012 15:21:30.87][172.16.8.250][97] select TIPO_PASANTIA from sol_tgpp where CI_E = '20152116'and TIPO_PASANTIA = 2 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:21:30.87][172.16.8.250][108] select TIPO_PASANTIA from sol_tgpp where CI_E = '20152116'and TIPO_PASANTIA = 1 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:21:30.87][172.16.8.250][141] select CI_E from sol_tgpp where CI_E = '20152116' and TIPO_PASANTIA = 2 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:21:30.87][172.16.8.250][150] select CI_E from sol_tgpp where CI_E = '20152116' and TIPO_PASANTIA = 1 [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]00601 DIC ITN Table has not been created}
+C:[06/12/2012 15:21:33.73][172.16.8.250][34] select APELLIDOS, NOMBRES, EXP_E, C_UNI_CA, TELEFONO2 from dace002 where CI_E = '20152116' [1][0] OK
+C:[06/12/2012 15:21:33.73][172.16.8.250][43] select ID_EMPRESA from sol_solicitudes where EXP_E= '07-20152116' [7][0] OK
+C:[06/12/2012 15:21:33.73][172.16.8.250][103] select CARRERA from tblaca010 where C_UNI_CA= '6' [1][0] OK
+C:[06/12/2012 15:21:33.73][172.16.8.250][135] select NOMBRE_EMPRESA from sol_empresas where ID_EMPRESA= '6' [1][0] OK
+C:[06/12/2012 15:37:26.30][172.16.8.250][34] select APELLIDOS, NOMBRES, EXP_E, C_UNI_CA, TELEFONO2 from dace002 where CI_E = '20152116' [1][0] OK
+C:[06/12/2012 15:37:26.30][172.16.8.250][43] select ID_EMPRESA from sol_solicitudes where EXP_E= '07-20152116' [7][0] OK
+C:[06/12/2012 15:37:26.30][172.16.8.250][103] select CARRERA from tblaca010 where C_UNI_CA= '6' [1][0] OK
+C:[06/12/2012 15:37:26.30][172.16.8.250][136] select NOMBRE_EMPRESA from sol_empresas where ID_EMPRESA = '6' [1][0] OK
